@@ -1,2 +1,3 @@
 This is Second file in GIT demo.
-this file is reverted 
+this file is reverted
+This line added for file merge
