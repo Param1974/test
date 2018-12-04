@@ -2,3 +2,5 @@ This file is for checking Rebase of log / history / commit
 This is the changed in Master
 This is the changed in Master for m2
 this is the change in Master for m3
+This is the change from Branch2
+
