@@ -1,1 +1,2 @@
 This file is for checking Rebase of log / history / commit
+This is the changed in Master
